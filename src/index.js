@@ -33,9 +33,3 @@ async function startServer() {
 }
 
 startServer();
-
-
-/* 
-mongodb+srv://anton_crud:black123@cluster0.r2mpg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
-${ process.env.MONGO_USER }
-${process.env.MONGO_PASSWORD} */
